@@ -4,14 +4,15 @@
 
 ## Overview 
 
-According to Jim Frost, Hypothesis Testing is a form of inferential statistics that allows us to draw conclusions about an entire population based on a representative sample.
+According to Jim Frost , the hypothesis testing is a form of inferential statistics that allows us to draw conclusions about an entire population based on a representative sample.
+
 In most cases, it is simply impossible to observe the entire population to understand its properties. The only alternative is to collect a random sample and then use statistics to analyze it.
 
-In this project we will be usings different types of hypothesis tests on different samples.
+In this repository there are different types of hypothesis tests performed on different samples.
 
 ## About the dataset
 
-- All the samples stored as CSV file and can be accessed through this link :
+- All the samples stored as CSV file and can be accessed through this links :
 
   - **Transportation Sample** : [Trips Duration Info](https://github.com/hayasalman/Hypothesis-Tests/blob/main/transportion_data.csv)
   - **Sodium Levels Sample** : [Sodium Levels](https://github.com/hayasalman/Hypothesis-Tests/blob/main/sodium_data.csv)
