@@ -79,9 +79,13 @@ In this project we will be usings different types of hypothesis tests on differe
   - In case of the [Airlines Company](https://github.com/hayasalman/Hypothesis-Tests/blob/main/One%20Sample%20Z-test.ipynb). The company actually should start to worry about the increment in the mean flight time and investigate more about the reasons that led to this and that doesn't happen due to extremes in the sample drawn. As the drawn sample may contain some of
     historical casual accidents that led to this result, in this situation they can draw another sample and do the test again , but if they come up with the same result that means the company does have some serious issues that cause this slipping in the mean flight time.
 
-  - In case of [The Shampoo Bottles](https://github.com/hayasalman/Hypothesis-Tests/blob/main/One%20Sample%20Z-test.ipynb). There are two different statements about the shampoo amount at each bottle, one made by the quality control team of the shampoo manufacturing company and the other is a claim made by one of its customers. 
-    First, about the quality control team statement we found that it's not necessarily the mean amount of shampoo in the bottles that is exactly 250 ml and in fact it's less than the mean amount by -1.92, but since that does not a significant observed difference in order to the quality team take it in consideration.
-    For the customer claim , the quality team already knew that the customer was right about his/her claim from the result of the previous hypothesis test , the mean amount of the shampoo in the bottles is not necessarily exactly 250 ml and it could differ from bottle to other. However, since they are not below the mean amount of 250 ml by significant observed difference, then there’s no need to start to be worried.
+  - In case of [The Shampoo Bottles Manufacturing Company](https://github.com/hayasalman/Hypothesis-Tests/blob/main/One%20Sample%20Z-test.ipynb). There are two different statements about the 
+    shampoo amount at each bottle, one made by the quality control team of the shampoo manufacturing company and the other is a claim made by one of its customers. 
+    First, about the quality control team statement we found that it's not necessarily the mean amount of shampoo in the bottles that is exactly 250 ml and in fact it's less than the mean amount by 
+    -1.92, but since that does not a significant observed difference in order to the quality team take it in consideration.
+    For the customer claim , the quality team already knew that the customer was right about his/her claim from the result of the previous hypothesis test , the mean amount of the shampoo in the 
+    bottles is not necessarily exactly 250 ml and it could differ from bottle to other. However, since they are not below the mean amount of 250 ml by significant observed difference, then there’s 
+    no need to start to be worried.
 
 
 
