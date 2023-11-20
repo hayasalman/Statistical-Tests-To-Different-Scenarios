@@ -10,7 +10,7 @@ In most cases, it is simply impossible to observe the entire population to under
 
 In this repository there are different types of hypothesis tests performed on different samples.
 
-## About the dataset
+## About The Dataset
 
 - All the samples stored as CSV file and can be accessed through this links :
 
@@ -35,7 +35,7 @@ In this repository there are different types of hypothesis tests performed on di
   * **matplotlib - seaborn** : used for data visualtion.
   * **scipy** : used for hypothesis tests.
  
-  ## Approches & Methodologies
+  ## Approaches & Methodologies
 
   1. Define the business problem.
      
