@@ -32,7 +32,7 @@ In this repository there are different types of hypothesis tests performed on di
 
    **Packeges used** 
   * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualtion.
+  * **matplotlib - seaborn** : used for data visualization.
   * **scipy** : used for hypothesis tests.
  
   ## Approaches & Methodologies
