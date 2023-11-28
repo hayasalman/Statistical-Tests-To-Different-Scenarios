@@ -26,6 +26,42 @@ In this repository there are different types of hypothesis tests performed on di
   - **UEFA Champions League Sample** : [UCL Champions Info](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Samples/UEFA_Champions_League_Sample.csv)
   - **NYSE Stock Prices Sample** : [Stock Prices Info](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Samples/NYSE_stock_prices.csv)
  
+  ## Installation
+
+We need to set up our local environment to programming using python , here :
+
+- Install and navigate through the Anaconda [Anaconda Installer](https://www.anaconda.com/download/) .
+
+- Setup and manage the environments.
+
+  ```conda create -n env_name```
+
+   To access this environment through the command line : ```conda activate env_name```
+
+   To check for the Python packages : ```conda list```
+
+- Download Python packages in Anaconda Terminal (we can use pip or conda interchangeably).
+
+  ```pip install pandas```
+
+   ```pip install numpy```
+
+   ```pip install matplotlib```
+
+   ```pip install seaborn```
+
+   ```pip install scipy```
+
+  **OR**
+
+  Install multiple packages at the same time. For example, the command below will install all three packages simultaneously.
+
+  ```conda install pandas numpy matplotlib seaborn scipy```
+
+- Install Jupyter Notebooks.
+
+  ```conda install jupyter notebook```
+
   ## Coding
 
   -  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
@@ -110,13 +146,13 @@ In this repository there are different types of hypothesis tests performed on di
 
 ## References
 
-- [One Sample Z-Tests File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/One%20Sample%20Z-test.ipynb)
-- [One Sample T-Tests File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/One%20Sample%20T-test.ipynb)
-- [Two Independent Samples Tests File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/Two%20Independent%20Sample%20Test.ipynb)
-- [Paired Samples Tests File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/Paired%20Samples%20T-test.ipynb)
-- [F-Test File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/F-test.ipynb)
-- [Chi Square Tests File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/Chi-Square%20Tests.ipynb)
-- [One-way ANOVA Test File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/One-way%20Anova%20Test.ipynb)
+- [One Sample Z-Tests IPYNB File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/One%20Sample%20Z-test.ipynb)
+- [One Sample T-Tests IPYNB File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/One%20Sample%20T-test.ipynb)
+- [Two Independent Samples Tests IPYNB File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/Two%20Independent%20Sample%20Test.ipynb)
+- [Paired Samples Tests IPYNB File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/Paired%20Samples%20T-test.ipynb)
+- [F-Test IPYNB File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/F-test.ipynb)
+- [Chi Square Tests IPYNB File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/Chi-Square%20Tests.ipynb)
+- [One-way ANOVA Test IPYNB File](https://github.com/hayasalman/Hypothesis-Tests/blob/main/Hypothesis%20Testing%20Notebooks/One-way%20Anova%20Test.ipynb)
 
   
    
